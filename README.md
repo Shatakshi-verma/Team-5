@@ -22,11 +22,12 @@
 
 ## Description
 
-This is a project made for [Codeflow-Developer-Conclave 1.0](https://user-images.githubusercontent.com/56452820/134432144-9672c5c2-7ce3-4d98-aef5-81b4577b2930.png) by [Team 5](https://github.com/CodeFlow201/Team-5). 
+This is a project made for [Codeflow-Developer-Conclave 1.0](https://user-images.githubusercontent.com/56452820/134432144-9672c5c2-7ce3-4d98-aef5-81b4577b2930.png) by [Team 5](https://github.com/CodeFlow201/Team-5). This project is a travel advisory app that will have travel blogs,ticket booking, encyclopedia, map and chatbot feature. It will be a all in one solution for all travel enthusiasts.
 
 #### Tech Stacks
 
 - Javascript
+- Django
 
 ## How To Contribute
 
