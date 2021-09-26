@@ -41,5 +41,10 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Mentor
 
+ #### [Shatakshi Verma](https://github.com/Shatakshi-verma)
+ 
+## Members
 
+ #### [Dharnish R S](https://github.com/VijayHitler)
+ #### [Nishtha](https://github.com/Nishtha-Goyal)
 
