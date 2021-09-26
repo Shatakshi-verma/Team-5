@@ -41,10 +41,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Mentor
 
-<table>
-<tr>
-    <td align="center" thead="Mentor"><a href="https://github.com/Shatakshi-verma"><img src="https://avatars.githubusercontent.com/u/77655859?s=400&v=4" width="100px;" alt="Mentor"/><br/><sub><b>Shatakshi Verma</b></sub></a></td>
-    
-  </tr>
-  </table>
+
 
