@@ -14,7 +14,6 @@
 
 - [Description](#description)
 - [How To Contribute](#how-to-contribute)
-- [References](#references)
 - [Mentor](#mentor)
 - [Members](#members)
 
