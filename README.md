@@ -27,3 +27,13 @@ This is a project made for [Codeflow-Developer-Conclave 1.0](https://user-images
 
 - Javascript
 - Django
+
+## How To Contribute
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are extremely appreciated.
+
+1. Fork the Project
+2. Clone the repository and create your Feature Branch
+3. Commit your changes
+4. Push to the Branch 
+5. Open a Pull Request
