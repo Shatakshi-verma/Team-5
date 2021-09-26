@@ -21,7 +21,7 @@
 
 ## Description
 
-This is a project made for [Codeflow-Developer-Conclave 1.0](https://user-images.githubusercontent.com/56452820/134432144-9672c5c2-7ce3-4d98-aef5-81b4577b2930.png) by [Team 5](https://github.com/CodeFlow201/Team-5).
+This is a project made for [Codeflow-Developer-Conclave 1.0](https://user-images.githubusercontent.com/56452820/134432144-9672c5c2-7ce3-4d98-aef5-81b4577b2930.png) by [Team 5](https://github.com/CodeFlow201/Team-5). 
 
 #### Tech Stacks
 
@@ -37,3 +37,14 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your changes
 4. Push to the Branch 
 5. Open a Pull Request
+
+
+## Mentor
+
+<table>
+<tr>
+    <td align="center" thead="Mentor"><a href="https://github.com/Shatakshi-verma"><img src="https://avatars.githubusercontent.com/u/77655859?s=400&v=4" width="100px;" alt="Mentor"/><br/><sub><b>Shatakshi Verma</b></sub></a></td>
+    
+  </tr>
+  </table>
+
