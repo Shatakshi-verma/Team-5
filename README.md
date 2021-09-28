@@ -44,7 +44,10 @@ Contributions are what make the open source community such an amazing place to b
  #### [Shatakshi Verma](https://github.com/Shatakshi-verma)
  
 ## Members
-
- #### [Dharnish R S](https://github.com/VijayHitler)
+ 
+ #### [Shreya](https://github.com/shreya0005)
+ #### [Russa Pal](https://github.com/russapal)
  #### [Nishtha](https://github.com/Nishtha-Goyal)
+ #### [Dharnish R S](https://github.com/VijayHitler)
+ 
 
