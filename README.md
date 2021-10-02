@@ -51,8 +51,7 @@ Contributions are what make the open source community such an amazing place to b
  #### [Dharnish R S](https://github.com/VijayHitler)
  
 ### Phase 1 Submission:
-(To view the points below, click on the drop down arrow)
-</br>
+
 
 <details>
   <summary> The Idea </summary>
