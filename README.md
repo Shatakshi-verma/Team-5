@@ -50,4 +50,46 @@ Contributions are what make the open source community such an amazing place to b
  #### [Nishtha](https://github.com/Nishtha-Goyal)
  #### [Dharnish R S](https://github.com/VijayHitler)
  
+### Phase 1 Submission:
+(To view the points below, click on the drop down arrow)
+</br>
 
+<details>
+  <summary> The Idea </summary>
+  <pre><p align="center">
+	The idea is to build a travel advisory app that will have
+  travel blogs, ticket booking, encyclopedia, map &
+  chatbot feature
+  The tech stacks that will be using for this app are:
+  Django & Javascript
+
+</p></pre>
+</details>
+
+<details>
+  <summary> Plan </summary>
+  <pre><p align="center">
+	<img src="https://github.com/CodeFlow201/Team-5/blob/master/plan.png?raw=true" width=650 height=300 alt="Banner">
+</p></pre>
+</details>
+
+<details>
+  <summary> Design </summary>
+  <pre><p align="center">
+  Link for reference:
+  https://www.figma.com/file/AMSqGmLwYXKuB1DXLKWUvU/TravelAdvisory-App?node-id=1%3A </br>
+	<img src="https://github.com/CodeFlow201/Team-5/blob/master/design.png?raw=true" width=650 height=300 alt="Banner">
+</p></pre>
+</details>
+
+<details>
+  <summary> Scopes </summary>
+  <pre><p align="center">
+  For the upcoming weeks, we will be coding the below-mentioned problems
+  1.Modifying the landing page as per the Figma design.
+  2.Code the Blog, Ticket booking, map page
+	3.We are also planning to add a currency converter in the website.
+</p></pre>
+</details>
+
+To view the full report, [click here](https://drive.google.com/file/d/1hMtVkOyf38kHpMgUwqX8wJtPCz18yvrb/view?usp=sharing) </br>
